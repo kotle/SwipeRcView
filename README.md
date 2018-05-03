@@ -1,5 +1,6 @@
 # SwipeRcView
-kotlin版本的上拉刷新下拉加载，有点类似于ios的下拉，可以无限下拉到屏幕外边
+kotlin版本的上拉刷新下拉加载，有点类似于ios的下拉，可以无限下拉到屏幕外边</br>
+demo自定义了headView，使用默认的footView
 
 # 使用说明
 >  1.在xml中添加view

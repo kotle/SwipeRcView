@@ -17,7 +17,7 @@ kotlin版本的上拉刷新下拉加载，有点类似于ios的下拉，可以�
         
         rcv.isCanLoadMore=true  //是否支持上拉加载 ，默认true
         rcv.isCanRefresh=true //是否支持下拉刷新，默认true
-        rcv.recyclerView  //拿到真正的recycler对象，以便做其他有关操作
+        rcv.recyclerView  //拿到真正的recyclerView对象，以便做其他有关操作
         rcv.headView = yourCustomView //设置自定义headView，不设置，则为默认
         rcv.footView= yourCustomView  //设置自定义footView，不设置，则为默认
         
